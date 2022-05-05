@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  background: rgb(216, 212, 161);
+  color: rgb(78, 29, 29);
+
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+}
+
+.avatar {
+  width: 600px;
+  padding: 0;
+  border: 0;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.avatar1 {
+    
+    width: 400px;
+    margin-top: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+.conteiner {
+    margin: 20px;
+    font-size: 20px;
+
+}
+
+.info {
+    text-align: center;
+    font-size: 20px;
+}
+
+.name {
+    text-decoration: underline;
+    font-size: 27px;
+    padding-left: 20px;
+}
+
+.Slava {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+audio {
+    width: 250px;
+    margin-left: 80%;
+    margin-top: 45%;
+    position: fixed;
+
+}
